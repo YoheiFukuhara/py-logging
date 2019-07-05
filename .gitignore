@@ -1,0 +1,6 @@
+*.log
+
+/log.log
+.idea/
+/test.py
+/test.log
